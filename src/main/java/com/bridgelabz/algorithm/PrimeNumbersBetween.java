@@ -4,7 +4,7 @@ public class PrimeNumbersBetween {
 	    public static void main(String[] args) {
 
 	        // Declare the variables
-	        int a = 0, b = 100;
+	        int a = 0, b = 1000;
 	        primeNumbersBetween(a, b);
 
 	    }
